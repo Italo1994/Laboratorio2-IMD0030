@@ -3,7 +3,7 @@
 
 	Circulo::Circulo(int r): raio(r) {
 		double pi = 3.1415;
-		area = pi * pow(raio, raio);
+		area = pi * (raio * raio);
 		perimetro = 2 * pi * raio;
 	}
 

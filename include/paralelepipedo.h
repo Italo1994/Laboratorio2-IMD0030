@@ -24,6 +24,12 @@ class Paralelepipedo {
 		*/	
 		Paralelepipedo(int m_aresta1, int m_aresta2, int m_aresta3);
 
+		/**
+		*@brief método destrutor da classe Paralelepipedo
+		*@details método destrutor da classe Paralelepipedo
+		*que será invocado explicitamente quando
+		*um objeto não estiver mais sendo utilizado
+		*/
 		~Paralelepipedo();
 
 		/**

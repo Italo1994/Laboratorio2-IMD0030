@@ -22,6 +22,12 @@ class Retangulo {
 		*/	
 		Retangulo(int b, int a);
 
+		/**
+		*@brief método destrutor da classe Retangulo
+		*@details método destrutor da classe Retangulo
+		*que será invocado explicitamente quando
+		*um objeto não estiver mais sendo utilizado
+		*/
 		~Retangulo();
 
 		/**

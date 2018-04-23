@@ -21,6 +21,12 @@ class Quadrado {
 		*/
 		Quadrado(int l);
 
+		/**
+		*@brief método destrutor da classe Quadrado
+		*@details método destrutor da classe Quadrado
+		*que será invocado explicitamente quando
+		*um objeto não estiver mais sendo utilizado
+		*/
 		~Quadrado();
 
 		/**

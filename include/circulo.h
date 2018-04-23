@@ -21,6 +21,12 @@ class Circulo {
 		*/
 		Circulo(int r);
 
+		/**
+		*@brief método destrutor da classe Circulo
+		*@details método destrutor da classe CIrculo
+		*que será invocado explicitamente quando
+		*um objeto não estiver mais sendo utilizado
+		*/
 		~Circulo();
 
 		/**
